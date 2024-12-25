@@ -1,0 +1,54 @@
+# Site
+title: 我的科研网站
+subtitle: 探索科研的无限可能
+description: 这是一个介绍我的科研工作、论文和项目的网站
+keywords: ['科研', '研究', '学术', '科技']
+author: 张三
+language: zh-CN
+timezone: Asia/Shanghai
+
+# URL
+url: http://example.com
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+pretty_urls:
+  trailing_index: true
+  trailing_html: true
+
+# Directory
+source_dir: source
+public_dir: public
+tag_dir: 标签
+archive_dir: 归档
+category_dir: 分类
+code_dir: downloads/code
+
+# Writing
+new_post_name: :title.md
+default_layout: post
+titlecase: false
+external_link:
+  enable: true
+  field: site
+  exclude: ''
+filename_case: 0
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
+
+# Date / Time format
+date_format: YYYY年MM月DD日
+time_format: HH:mm:ss
+updated_option: 'mtime'
+
+# Pagination
+per_page: 10
+pagination_dir: page
+
+# Extensions
+theme: landscape
+
+# Deployment
+deploy:
+  type: ''
