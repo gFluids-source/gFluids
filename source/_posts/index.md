@@ -4,7 +4,7 @@ tags:
 academia: true
 --------------
 
-## 科研工作
+## <a id="Work"></a>科研工作
 
 ### 在研科研项目
 
@@ -30,7 +30,7 @@ academia: true
 
 6. 国家973计划项目，2014CB046200，大型风力机的关键力学问题研究及设计实现，2014.01-2018.09，参与。
 
-## 出版物
+## <a id="Paper"></a>出版物
 
 1. Qian X H, Zhang B X, Gao Z T*, et al. Flutter limit optimization of offshore wind turbine blades considering different control and structural parameters[J]. Ocean Engineering, 2024, 310: 118558. (中科院2区，通讯作者);
 
@@ -61,5 +61,5 @@ academia: true
 14. 郜志腾, 王珑, 王同光. 稳定大气条件下NREL 5MW风力机的非定常载荷特性研究[C]. 第三届江苏省工程师学会风工程学术会议.江苏省工程师学会:风工程专业委员会, 2020:1. (最佳论文奖)
 
 
-## 团队进展
+## <a id="News"></a>团队进展
 
