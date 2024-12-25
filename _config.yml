@@ -1,9 +1,10 @@
 # Site
-title: 我的科研网站
+title: 个人科研网站
 subtitle: 探索科研的无限可能
-description: 这是一个介绍我的科研工作、论文和项目的网站
+description: 勿骄而不前，勿卑而自馁~
 keywords: ['科研', '研究', '学术', '科技']
-author: 张三
+author: 郜志腾 博士/硕导
+author_spl: '郜志腾'
 language: zh-CN
 timezone: Asia/Shanghai
 
@@ -47,8 +48,10 @@ per_page: 10
 pagination_dir: page
 
 # Extensions
-theme: landscape
+theme: Academia
 
 # Deployment
 deploy:
-  type: ''
+  type: git
+  repository: https://github.com/gFluids-source/gFluids.git
+  branch: master  # 通常是 main 或 master'
