@@ -14,7 +14,7 @@ menu:
   主页: /
   科研工作: /#Work
   出版物: /#Paper
-  团队进展: /#News
+  团队成员: /teamMembers
 
 # flink picture will load if avator link calls on error
 loading_bg:
