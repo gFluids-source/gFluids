@@ -4,6 +4,17 @@ tags:
 academia: true
 --------------
 
+### 个人简介
+
+<p style="font-size: 1em; line-height: 1.6; color: #333;">郜志腾，1991年生，博士，现任汕头大学工学院讲师、第8届中国空气动力学会风能空气动力学专业委员会委员、南方科技大学访问学者。2024年入选汕头大学卓越人才计划（优秀青年人才）、汕头市高层次人才（B类）。
+
+2014年和2017年分别获兰州理工大学工学学士和硕士学位，2021年博士毕业于南京航空航天大学空气动力学系，2022-2024年在上海交通大学海洋工程国家重点实验室做博士后。研究工作曾获中国可再生能源学会风能专业委员会优秀论文奖、可持续能源与绿色技术国际会议(SEGT)最佳论文奖、全国流体力学大会青年优秀论文奖等。近3年主持风电领域国家自然基金、博士后面上基金、广东省自然科学基金等国家及省部级基金4项，参与海上风电国家重点研发计划项目3项，在《Renewable Energy》、《Science China Physics, Mechanics & Astronomy》、《Applied Energy》等能源领域顶级期刊发表论文20余篇，其中一作和通讯论文15篇，2024年获ESI高被引文章1篇。授权能源领域发明专利2项、软件著作权2项。</p>
+
+<p style="font-size: 1em; line-height: 1.6; color: #333;"><strong>研究方向：</strong>风工程与工业空气动力学、结构动力学、计算流体力学。</p>
+
+<p style="font-size: 1em; line-height: 1.6; color: #333;"><strong>联系方式：</strong><a href="mailto:zhtgao@stu.edu.com" style="color: #2c3e50; text-decoration: underline;">zhtgao@stu.edu.com</a></p>
+
+
 ## <a id="Work"></a>科研工作
 
 ### 在研科研项目
