@@ -12,9 +12,10 @@ since: 2024
 # 可以选择外链或其他页面
 menu:
   主页: /
-  科研工作: /#Work
-  出版物: /#Paper
+  科研工作: /Work
+  出版物: /Paper
   团队成员: /teamMembers
+  知识产权: /patents
 
 # flink picture will load if avator link calls on error
 loading_bg:
