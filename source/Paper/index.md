@@ -3,18 +3,21 @@ title: 出版物
 date: 2024-12-28 21:33:17
 ---
 
+1. 李寿图, 马龙军, <span style="font-weight: 600; color: #2c3e50;">郜志腾*</span>, 钱晓航. 非线性对不同尺寸长柔叶片动态响应的影响[J]. 华中科技大学学报(自然科学版), 2026, 54(1): 33-39. (<span style="font-weight: 600; color: #2c3e50;">EI，通讯作者</span>);
 
 1. Qian X H, <span style="font-weight: 600; color: #2c3e50;">Gao Z T</span>, He Y B, et al. Dynamic response analysis and blade stiffness sensitivity study of large floating offshore wind turbine with coupling effect[J]. Renewable Energy, 2025, 255: 123540. (<span style="font-weight: 600; color: #2c3e50;">中科院1区，Top期刊，共同一作</span>);
 
-2. 钱晓航, 张宝旭, <span style="font-weight: 600; color: #2c3e50;">郜志腾*</span>, 等.基于刚度灵敏性分析的15MW风力机气弹响应[J/OL].哈尔滨工程大学学报,1-10[2025-07-05]. http://kns.cnki.net/kcms/detail/23.1390.U.20250625.1349.007.html. (<span style="font-weight: 600; color: #2c3e50;">EI，通讯作者</span>);
+2. 钱晓航, 张宝旭, <span style="font-weight: 600; color: #2c3e50;">郜志腾*</span>, 等.基于刚度灵敏性分析的15MW风力机气弹响应[J].哈尔滨工程大学学报, 2025, 46(12): 2442-2452. (<span style="font-weight: 600; color: #2c3e50;">EI，通讯作者</span>);
 
 3. Qian X H, Zhang B X, <span style="font-weight: 600; color: #2c3e50;">Gao Z T*</span>, et al. Flutter limit optimization of offshore wind turbine blades considering different control and structural parameters[J]. Ocean Engineering, 2024, 310: 118558. (<span style="font-weight: 600; color: #2c3e50;">中科院2区，通讯作者</span>);
 
-4. <span style="font-weight: 600; color: #2c3e50;">郜志腾</span>, 张军, 李岳, 李晔. 极端天气对风电场局地大气风环境的影响研究[J]. 华中科技大学学报(自然科学版), 2024, 7: 1-8.  (<span style="font-weight: 600; color: #2c3e50;">EI</span>);
+4. <span style="font-weight: 600; color: #2c3e50;">郜志腾</span>, 张军, 李岳, 李晔. 极端天气对风电场局地大气风环境的影响研究[J]. 华中科技大学学报(自然科学版), 2024, 52(7): 106-112. (<span style="font-weight: 600; color: #2c3e50;">EI</span>);
+
+4. Wang Y, Chai Y F, <span style="font-weight: 600; color: #2c3e50;">Gao Z T*</span>, et al. Effects of Inflow Turbulent Coherent Structures on a Small-Scale Wind Turbine in the Atmospheric Boundary Layer of Long Corridor Terrains: AnExample Study in the Hexi Corridor[J]. PRX Energy, 2024, 3: 043001. (<span style="font-weight: 600; color: #2c3e50;">共同一作</span>);
 
 5. Li Y Z, <span style="font-weight: 600; color: #2c3e50;">Gao Z T</span>, Li S T, et al. A Nonlinear Wake Model of a Wind Turbine Considering the Yaw Wake Steering[J]. Journal of Oceanology and Limnology, 2024, 42(3): 715-727. (<span style="font-weight: 600; color: #2c3e50;">共同一作，中科院2区</span>)
 
-6. 王强, 邵昌盛, 岳念西, <span style="font-weight: 600; color: #2c3e50;">郜志腾*</span>, 李晔. 弃风限电对风电机组载荷响应及重要部件的影响[J]. 太阳能学报, 2024, 45(11):447-453. DOI:10.19912/j.0254-0096.tynxb.2023-1111. (<span style="font-weight: 600; color: #2c3e50;">EI，通讯作者</span>);
+6. 王强, 邵昌盛, 岳念西, <span style="font-weight: 600; color: #2c3e50;">郜志腾*</span>, 李晔. 弃风限电对风电机组载荷响应及重要部件的影响[J]. 太阳能学报, 2024, 45(11):447-453. (<span style="font-weight: 600; color: #2c3e50;">EI，通讯作者</span>);
 
 7. Y. Li, F. Yang, S. Li, X. Tang, X. Sun, S. Qi, <span style="font-weight: 600; color: #2c3e50;">Z. Gao*</span>. Influence of six-degree-of-freedom motion of a large marine data buoy on wind speed monitoring accuracy[J]. Journal of Marine Science and Engineering, 2023, 11: 1985. (<span style="font-weight: 600; color: #2c3e50;">中科院2区，通讯作者</span>)
 
