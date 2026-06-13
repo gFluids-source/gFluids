@@ -3,9 +3,11 @@ title: 出版物
 date: 2024-12-28 21:33:17
 ---
 
-1. <span style="font-weight: 600; color: #2c3e50;">郜志腾</span>, 黄腾达, 胡建, 等. 大模型驱动的机械学科课程学情诊断框架与端-云技术实现路径[J]. 造纸装备及材料, 2026, 55(01): 150-152.;
+1. Zang Zhizhao, Li Ye, Li Deshun, <span style="font-weight: 600; color: #2c3e50;">Gao Zhiteng*</span>. Wake evolution and boundary layer interactions in large-scale wind farms. Acta Mechanica Sinica. 42, 325844 (2026). (<span style="font-weight: 600; color: #2c3e50;">中科院2区，共同通讯</span>);
 
-1. 李寿图, 马龙军, <span style="font-weight: 600; color: #2c3e50;">郜志腾*</span>, 钱晓航. 非线性对不同尺寸长柔叶片动态响应的影响[J]. 华中科技大学学报(自然科学版), 2026, 54(1): 33-39. (<span style="font-weight: 600; color: #2c3e50;">EI，通讯作者</span>);
+2. <span style="font-weight: 600; color: #2c3e50;">郜志腾</span>, 黄腾达, 胡建, 等. 大模型驱动的机械学科课程学情诊断框架与端-云技术实现路径[J]. 造纸装备及材料, 2026, 55(01): 150-152.;
+
+3. 李寿图, 马龙军, <span style="font-weight: 600; color: #2c3e50;">郜志腾*</span>, 钱晓航. 非线性对不同尺寸长柔叶片动态响应的影响[J]. 华中科技大学学报(自然科学版), 2026, 54(1): 33-39. (<span style="font-weight: 600; color: #2c3e50;">EI，通讯作者</span>);
 
 1. Qian X H, <span style="font-weight: 600; color: #2c3e50;">Gao Z T</span>, He Y B, et al. Dynamic response analysis and blade stiffness sensitivity study of large floating offshore wind turbine with coupling effect[J]. Renewable Energy, 2025, 255: 123540. (<span style="font-weight: 600; color: #2c3e50;">中科院1区，Top期刊，共同一作</span>);
 
