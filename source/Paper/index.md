@@ -3,7 +3,7 @@ title: 出版物
 date: 2024-12-28 21:33:17
 ---
 
-1. Zang Zhizhao, Li Ye, Li Deshun, <span style="font-weight: 600; color: #2c3e50;">Gao Zhiteng*</span>. Wake evolution and boundary layer interactions in large-scale wind farms. Acta Mechanica Sinica. 42, 325844 (2026). (<span style="font-weight: 600; color: #2c3e50;">中科院2区，共同通讯</span>);
+1. Zang Zhizhao, Li Ye, Li Deshun, <span style="font-weight: 600; color: #2c3e50;">Gao Zhiteng*</span>. Wake evolution and boundary layer interactions in large-scale wind farms. Acta Mechanica Sinica. 2026, 42, 325844. (<span style="font-weight: 600; color: #2c3e50;">中科院2区，共同通讯</span>);
 
 2. <span style="font-weight: 600; color: #2c3e50;">郜志腾</span>, 黄腾达, 胡建, 等. 大模型驱动的机械学科课程学情诊断框架与端-云技术实现路径[J]. 造纸装备及材料, 2026, 55(01): 150-152.;
 
