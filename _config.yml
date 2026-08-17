@@ -53,5 +53,5 @@ theme: Academia
 # Deployment
 deploy:
   type: git
-  repository: https://github.com/gFluids-source/gFluids.git
+  repository: git@github.com:gFluids-source/gFluids.git
   branch: master  # 通常是 main 或 master'
