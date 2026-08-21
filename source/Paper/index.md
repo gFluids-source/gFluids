@@ -3,7 +3,7 @@ title: 出版物
 date: 2024-12-28 21:33:17
 ---
 
-1. 李寿图, 马龙军, 魏鹏军, 胡建, 陈梦璇, <span style="font-weight: 600; color: #2c3e50;">郜志腾</span>. 低空急流对超大尺寸风电机组动态响应的影响研究[J/OL]. 太阳能学报, 1-9[2026-08-21]. https://doi.org/10.19912/j.0254-0096.tynxb.2025-1486.;
+1. 李寿图, 马龙军, 魏鹏军, 胡建, 陈梦璇, <span style="font-weight: 600; color: #2c3e50;">郜志腾</span>. 低空急流对超大尺寸风电机组动态响应的影响研究[J/OL]. 太阳能学报, 1-9[2026-08-21]. (<span style="font-weight: 600; color: #2c3e50;">EI，通讯作者</span>);
 
 2. Zang Zhizhao, Li Ye, Li Deshun, <span style="font-weight: 600; color: #2c3e50;">Gao Zhiteng*</span>. Wake evolution and boundary layer interactions in large-scale wind farms. Acta Mechanica Sinica. 2026, 42, 325844. (<span style="font-weight: 600; color: #2c3e50;">中科院2区，共同通讯</span>);
 
